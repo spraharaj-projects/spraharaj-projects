@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&size=22&pause=1000&color=00FFF5&center=true&width=650&lines=A+Data+Engineer%2C+Empowering+Solutions+through+Data+and+Tech;AI+Enthusiast%2C+Unleashing+Innovation+with+Artificial+Intelligence;Web+App+Fanatic%2C+Crafting+Dynamic+Online+Experiences+with+Fervor" alt="Typing SVG" /></a>
 </p>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="310" width="440" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="440" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 - 🏬 I'm currently working at Infosys  
 <br/>
