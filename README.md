@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Data Science
 <br/>
 <br/>
-- ❤️‍🔥 Spare time goes to: Art | Painting | Valorant
+- ❤️ Spare time goes to: 🖼️ Digital Art | 🎨 Painting | 🎮 Gaming | 💻 CC
 <br/>
 <br/>
 - 🤙 Let's connect:
