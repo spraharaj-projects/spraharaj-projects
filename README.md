@@ -11,7 +11,7 @@
 - 👀 I’m interested in AI Technologies
 <br/>
 <br/>
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Deep Neural Networks
 <br/>
 <br/>
 - ❤️ Spare time goes to: 🖼️ Digital Art | 🎨 Painting | 🎮 Gaming | 💻 CC
