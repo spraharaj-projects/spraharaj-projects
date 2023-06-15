@@ -17,7 +17,7 @@
     </td>
   <td>
     <a target="_blank" href="https://credentials.databricks.com/f2e496d3-127d-45c8-b4c4-fe417503452d">
-      <img src="https://github.com/spraharaj-projects/spraharaj-projects/assets/134231768/7504ad18-e421-4c1b-b6a0-2821b5955cb7" height="120"/>
+      <img src="https://images.squarespace-cdn.com/content/v1/5bce4071ab1a620db382773e/62f853ba-36ad-4183-8415-b48f467c2de2/Data+Engineer+Associate+Badge.png" height="100"/>
     </a>
   </td>
   <td>
