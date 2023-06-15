@@ -2,6 +2,34 @@
 <p align="center">
 <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&size=22&pause=1000&color=00FFF5&center=true&width=650&lines=A+Data+Engineer%2C+Empowering+Solutions+through+Data+and+Tech;AI+Enthusiast%2C+Unleashing+Innovation+with+Artificial+Intelligence;Web+App+Fanatic%2C+Crafting+Dynamic+Online+Experiences+with+Fervor" alt="Typing SVG" /></a>
 </p>
+
+<table border="5" align="center">
+<caption><h3 align="center">Certifications</h3></caption>
+<tr>
+  <td><a target="_blank" href="https://www.credly.com/badges/9245abc0-50e3-4103-a506-922db4644ca1/public_url">
+  <img src='https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png' height="100"/>
+</a>
+    </td>
+  <td>
+<a target="_blank" href="https://www.credly.com/badges/1853ef93-c68c-4f66-b89b-edfbe076ca00/public_url">
+  <img src='https://images.credly.com/size/220x220/images/6e740902-ae17-42c3-85c9-b4d017d8e21e/image.png' height="100"/>
+</a>
+    </td>
+  <td>
+    <a target="_blank" href="https://credentials.databricks.com/f2e496d3-127d-45c8-b4c4-fe417503452d">
+      <img src="https://github.com/spraharaj-projects/spraharaj-projects/assets/134231768/7504ad18-e421-4c1b-b6a0-2821b5955cb7" height="120"/>
+    </a>
+  </td>
+  <td>
+    <a target="_blank" href="https://www.credly.com/badges/0dbc8259-3dd9-4ea8-9b37-0c6b7868a57c/public_url">
+      <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100"/>
+      </a>
+    </td>
+  </tr>
+  </table>
+  <h5 align="center"><a target="_blank" href="https://www.credly.com/users/supreet-praharaj/badges">check all my certifications here</a></h5>
+  <br/>
+  <br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="440" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
