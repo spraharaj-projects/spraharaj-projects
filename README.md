@@ -33,7 +33,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="440" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-- 🏬 I'm currently working at Infosys  
+- 🏬 I'm currently working at Infosys as Specialist Programmer  
 <br/>
 <br/>
 - 👀 I’m interested in AI Technologies
