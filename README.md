@@ -2,7 +2,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&size=22&pause=1000&color=00FFF5&center=true&width=650&lines=A+Data+Engineer%2C+Empowering+Solutions+through+Data+and+Tech;AI+Enthusiast%2C+Unleashing+Innovation+with+Artificial+Intelligence;Web+App+Fanatic%2C+Crafting+Dynamic+Online+Experiences+with+Fervor" alt="Typing SVG" /></a>
 </p>
-
+<p align="center">Check Colab projects: <a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1F6qCirkDpn_RJkJlSK2jrTvnZTX7azoH?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a></p>
 <table border="5" align="center">
 <caption><h3 align="center">Certifications</h3></caption>
 <tr>
