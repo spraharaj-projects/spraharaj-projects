@@ -6,6 +6,10 @@
 <table border="5" align="center">
 <caption><h3 align="center">Certifications</h3></caption>
 <tr>
+  <td><a target="_blank" href="https://www.credly.com/badges/54bf1ee8-54bf-470e-b3a8-7ed78d591fdc/public_url">
+  <img src='https://images.credly.com/size/220x220/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png' height="100"/>
+</a>
+    </td>
   <td><a target="_blank" href="https://www.credly.com/badges/9245abc0-50e3-4103-a506-922db4644ca1/public_url">
   <img src='https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png' height="100"/>
 </a>
