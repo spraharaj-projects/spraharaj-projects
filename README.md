@@ -16,7 +16,7 @@
     </td>
   <td>
 <a target="_blank" href="https://www.credly.com/badges/1853ef93-c68c-4f66-b89b-edfbe076ca00/public_url">
-  <img src='https://images.credly.com/size/220x220/images/6e740902-ae17-42c3-85c9-b4d017d8e21e/image.png' height="100"/>
+  <img src='https://images.credly.com/size/680x680/images/176e04b2-942c-4319-becc-ac935f3412ae/image.png' height="100"/>
 </a>
     </td>
   <td>
